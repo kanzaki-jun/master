@@ -1,0 +1,121 @@
+プログラミング	Visual Basic 6.0
+	Visual Basic 2010
+	Visual Basic 2013
+	Excel VBA
+	Word VBA
+	PowerPoint VBA
+	Access VBA
+	C
+	C++
+	OpenSourceCOBOL
+	Java
+	JavaScript
+	VBScript
+	HTML+CSS
+	Perl
+	PHP
+	Ruby
+	
+データベース	Oracle構築
+	Oracle運用
+	SQL*Plus
+	SQL Loader
+	PL/SQL
+	SQL Developer
+	OO4O
+	ODAC
+	
+システム開発	要件分析・定義
+	アーキテクチャ設計
+	DBテーブル設計
+	アプリケーション設計
+	プログラミング
+	プロジェクト管理
+	
+Web	IISサイト構築
+	IISサイト運用
+	WordPressサイト構築
+	WordPressサイト運用
+	Apacheサイト構築
+	Ruby on Rails
+	
+サーバー	OS構築
+(Windows)	OS運用
+	ActiveDirectory構築
+	ActiveDirectory運用
+	
+パソコン	
+(Windows)	基本操作
+	応用操作
+	
+(iPad)	基本操作
+	応用操作
+	
+(Android)	基本操作
+	応用操作
+	
+ネットワーク	IPアドレス
+[知識]	L2・L3スイッチ
+	ワイヤード接続
+	ワイヤレス接続
+	アクセスポイント
+	
+アプリケーション	Excel
+	Word
+	PowerPoint
+	Access
+	BricsCAD
+	SolidWorks
+	
+	
+公的資格（0 or 5）	
+対象	資格名
+IT技術者全般	ITパスポート
+	基本情報処理技術者
+	情報検定(J検)
+	情報検索応用能力試験
+	MCP(マイクロソフト認定プロフェッショナル)
+	MOS(マイクロソフトオフィススペシャリスト)
+	ドットコムマスター
+システム設計・管理者	応用情報技術者
+	情報セキュリティスペシャリスト
+	ITサービスマネージャ
+	Linuｘ技術者認定試験(LPIC)
+	企業情報管理士認定試験 
+プロジェクト管理者	プロジェクトマネージャー
+	PMP(Project Management Professional)試験
+ユーザサポート/ヘルプデスク	日商PC検定
+	パソコン検定(P検)
+	IC3
+	CompTIAA+ 
+	パソコンインストラクター資格認定
+	パソコン整備士 
+	Excel 表計算処理技能設定試験
+	Access ビジネスデータベース技能認定試験
+	マイクロソフトオフィススペシャリスト(MOS)
+プログラマ	システムアーキテクト
+	VBAエキスパート
+	C言語プログラミング能力認定試験
+	Javaプログラミング能力認定試験 
+	PHP技術者認定試験試験
+	オラクルJava認定資格(OCJ)
+ネットワーク管理者	ネットワークスペシャリスト
+	シスコ技術者認定
+データベース管理者	データベーススペシャリスト
+	オラクルマスター
+制御系エンジニア	エンベデッドシステムスぺシャリスト
+	デジタル技術検定
+	画像処理エンジニア検定
+	CADトレース技能審査 
+	CAD利用技術者試験 
+Webデザイナー・クリエイター	Webデザイン技能検定
+	Webデザイナー検定
+	Illustratorクリエイター能力認定試験
+	Photoshopクリエイター能力認定試験
+	CGクリエイター検定
+	CGエンジニア検定
+	マルチメディア検定
+	DTPエキスパート
+システム監査・コンサルティング	システム監査技術者 
+	ITストラテジスト
+	ITコーディネータ 
