@@ -1,0 +1,12 @@
+1 自動布線配線情報 NC(Job).DAT
+2 デバイス情報(スコッチ) DEV(Job).DAT
+3 特殊電線製作情報 MARK(Job).DAT
+4 文字板製作情報 MJ(Job).DAT
+5 布線本数情報 HON(Job).DAT
+6 エリア区分リスト ZWD05FLP.(Job)
+7 電線本数表 ZWD05HON.(Job)
+8 機器リスト ZWD05KIK.(Job)
+9 端子台個数表 ZWD05TBP.(Job)
+10 展開図設計本数表 ZWD05TEA.(Job)
+11 列盤中継展開本数表 ZWD05TEB.(Job)
+12 渡り線リスト ZWD05WAT.(Job)
